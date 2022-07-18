@@ -1,0 +1,270 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header{
+    background: rgb(18, 47, 124);
+    height: 120px;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    
+
+}
+.logo-icon{
+    padding: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(233, 222, 227);
+    font-size: 4rem;
+    position:fixed;
+    width: fit-content;
+    height: fit-content;
+}
+
+.material-icons.logo-image {
+    font-size: 5rem;
+    color: darkorange;
+}
+.logo-text-lable:hover{
+    color: darkorange;
+    cursor: pointer;
+}
+
+
+.function-icons{
+  margin-left: 35rem;
+  padding-top: 4rem;
+  padding-left: 4rem;
+  width: fit-content;
+  height: fit-content;
+  position: fixed;
+}
+    .material-icons.notification{
+    font-size: 3rem;
+    color:antiquewhite;
+   
+    }
+    .material-icons.fileupload{
+        font-size: 3rem;
+        color:antiquewhite;
+     
+    }
+    .personal{
+        margin-left: 82rem;
+    
+      
+    }
+    .material-icons.profile{
+      font-size: 6rem;
+      color:antiquewhite;
+      padding-top: 2rem;
+      padding-left: 3rem;
+      position: fixed;
+       
+      
+       
+      
+    }
+    .material-icons.logout{
+        font-size: 3rem;
+        color:antiquewhite;
+        margin-left: 12rem;
+    }
+    .user-text{
+      color:antiquewhite;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-top: 8rem;
+        text-align: center;
+    }
+        
+    .material-icons.notification:hover{
+        color: darkorange;
+        cursor: pointer;
+    }
+    .material-icons.fileupload:hover{
+        color: darkorange;
+        cursor: pointer;
+    }
+    .material-icons.logout:hover{
+        color: darkorange;
+        cursor: pointer;
+    }
+    .material-icons.profile:hover{
+        color: darkorange;
+        cursor: pointer;
+    }
+.fotor1{
+    background-color:rgb(18, 47, 124);
+    height: 40px;
+    text-align: center;
+    
+}
+.fotor2{
+    background-color:rgb(202, 201, 199);
+    height: 100px;
+}
+.body2{
+    height: 355px;
+    
+}
+.fa.fa-facebook{
+    margin: 1rem;
+    font-size: 3rem;
+    background-color:rgb(202, 201, 199);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 2px;
+}
+.fa.fa-twitter{
+    margin: 1rem;
+    font-size: 3rem;
+    background-color:rgb(202, 201, 199);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 2px;
+}
+.fa.fa-google{
+    margin: 1rem;
+    font-size: 3rem;
+    background-color: rgb(202, 201, 199);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 2px;
+}
+.fa.fa-linkedin{
+    margin: 1rem;
+    font-size: 3rem;
+    background-color: rgb(202, 201, 199);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 2px;
+}
+.fa.fa-youtube{
+    margin: 1rem;
+    font-size: 3rem;
+    background-color: rgb(202, 201, 199);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 2px;
+}
+.body2-profile{
+    height: 355px;
+    background-color: rgb(221, 215, 206); 
+}
+.login-main{
+    width:  250px;
+    height: 340px;
+    background-color:rgb(202, 201, 199);
+    padding-top: 2rem;
+    margin-left: 77.5rem;
+    border-radius: 10px;
+    position: fixed;
+    
+}
+.login-title{
+    color: rgb(94, 90, 84);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+.user-pasword
+{
+    margin-top: 7rem;
+    margin-left: 2.5rem;
+    position: fixed;
+    width:200px;
+    height: 25px;
+}
+.user-name{
+    position: fixed;
+    margin-left: 2.5rem;
+    margin-top: 3rem;
+    width:200px;
+    height: 25px;
+}
+.user-login{
+    position: fixed;
+    margin-left: 7rem;
+    margin-top: 12rem;  
+    text-align: center;
+    width: 110px;
+    height: 24px;
+    
+
+}
+.body2 .login-main .user-login a {
+    text-decoration: none;
+}
+.link{
+    margin-left: 4rem;
+    margin-top: 20rem;
+    position: fixed;
+}
+.link2{
+    margin-left: 10rem;
+    margin-top: 20rem;
+    position: fixed;
+}
+.main-regs{
+    width:  300px;
+    height: 340px;
+    background-color:rgb(202, 201, 199);
+    padding-top: 1rem;
+    margin-left: 36rem;
+    border-radius: 10px;
+   text-align: center;
+}
+
+.user-first-name{
+    margin-top:  0.5rem;
+    margin-left: 0rem;
+    width: 200px;
+    height: 25px;
+}
+.user-last-name{
+    margin-top:  1rem;
+    margin-left: 0rem;
+    width: 200px;
+    height: 25px;
+}  
+
+.user-location{
+    margin-top:  1rem;
+    margin-left: 0rem;
+    width: 200px;
+    height: 25px;
+}  
+
+.occupation{
+    margin-top:  1rem;
+    margin-left: 0rem;
+    width: 200px;
+    height: 25px;  
+}
+.password{
+    margin-top:  1rem;
+    margin-left: 0rem;
+    width: 200px;
+    height: 25px;
+}
+.conform-password{
+    margin-top: 1rem;
+    margin-left: 0rem;
+    width: 200px;
+    height: 25px; 
+}
+.user-reg-submit{
+    margin-top: 2rem;
+    margin-left: 0rem;
+    width: 150px;
+    height: 25px;
+
+}
+.sing-up-title
+{
+    color: rgb(94, 90, 84);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 0%;
+}
